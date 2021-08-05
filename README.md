@@ -1,5 +1,10 @@
 # AppTareas
 
+![app-tareas](https://user-images.githubusercontent.com/53599271/128396840-310264df-9da9-47f2-b2ab-f6120a1934fc.PNG)
+
+![app-tarea-mobile](https://user-images.githubusercontent.com/53599271/128396857-c33e3dab-7217-4090-9bb0-67d857c262c0.PNG)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
 
 ## Development server
